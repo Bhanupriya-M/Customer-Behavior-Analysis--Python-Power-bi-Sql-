@@ -72,7 +72,7 @@ The goal of this project is to simulate a **corporate-grade end-to-end analytics
 
 ## 🛠️ Tools & Technologies
 
-- **Python** (Pandas, NumPy) – Data Cleaning & EDA  
+- **Python** (Pandas, NumPy,seaborn,Matplotlib) – Data Cleaning & EDA  
 - **SQL** – Data Analysis & Querying  
 - **Power BI** – Dashboard & Visualization  
 - **Excel / CSV** – Data Source  
