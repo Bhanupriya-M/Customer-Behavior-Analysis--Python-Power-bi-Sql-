@@ -6,16 +6,6 @@ It covers all critical stages of data analysis — from **data preparation and m
 
 ---
 
-## 🎯 Who is this project for?
-
-This project is perfect for:
-
-- 📊 **Aspiring Data Analysts** looking to build a strong portfolio project for interviews and LinkedIn  
-- 📚 Learners exploring **Python, SQL, and Power BI**  
-- 💼 Professionals preparing for roles in **Data Analytics, Data Science, or Product Analytics**
-
----
-
 ## 📌 Project Overview
 
 The goal of this project is to simulate a **corporate-grade end-to-end analytics workflow**, demonstrating the ability to transform raw data into **actionable business insights**.
